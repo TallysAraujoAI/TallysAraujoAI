@@ -17,7 +17,7 @@
 
   - 💬 I'm 20 years old, I currently live in Brazil. I'm looking to improve myself in AI and Machine Learning. I'm also looking to become a content creator and develop important skills such as creativity, communication, marketing, analytical skills, community management and social media.
 
-  - 📚 I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. 
+  - 📚 I enjoy reading, whether it's a good book, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. 
 </details>
 
 <!-- Links -->
