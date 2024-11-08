@@ -1,8 +1,10 @@
 # 👨‍💻 Tallys Araújo #
 
-**`Gestor de Agente de IA`**
+**`artificial intelligence analyst`**
 
-Me chamo Tallys de Araújo, tenho 20 anos e sou natural de Anapólis. Estou cursando desenvolvimneto NoCode com IA. Sou apaixonado por tecnologia. 
+Hi, I'm Tallys! A student passionate about Artificial Intelligence.
+I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+
 
 ---
 
