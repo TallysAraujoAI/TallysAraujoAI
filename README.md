@@ -8,7 +8,7 @@
 <p>
  ✨ Hi, I'm Tallys! A student passionate about Artificial Intelligence
 
-  -  🍂 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.'
+  -  🍂 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
 
 <!-- Dropdown -->
